@@ -25,6 +25,7 @@
 * Go in one pic (in preparation)
 
 ## TO DO LIST
+#Check The box,When You Done With it
 - [X] Use IPython notebook, it's really very cool!
 
 - [X] `import this`
